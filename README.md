@@ -39,8 +39,7 @@
 
 ##### DAX (Data Analysis Expressions): Creation of KPIs, calculated columns, and dynamic measures
 
-
-### Interactive Design: Drill-through navigation, slicers, buttons, and page interactivity
+##### Interactive Design: Drill-through navigation, slicers, buttons, and page interactivity
 
 
 
