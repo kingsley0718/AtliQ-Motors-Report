@@ -112,6 +112,16 @@ Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Cha
 ##### Top 10 States by CAGR (2022–2024) in total vehicle sales (Table)
 
 
+
+## Dashboard:
+
+![Screenshot (32)](https://github.com/user-attachments/assets/7b045e59-13c2-4615-8fe1-207c49d57d60)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/8fa6d50d-1fc3-42f4-9d20-9c2290349ac7)
+
+
+
+
 ## Key Insights & Their Strategic Importance
 
 ### Here are the refined insights from this report — with why they matter and how they guide decision-making:
