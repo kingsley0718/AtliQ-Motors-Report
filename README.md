@@ -62,7 +62,9 @@
 
 #### The report was designed with two main pages, each focused on a different dimension of the analysis.
 
-### 📄 1. Maker’s Report Sheet: 
+
+## 📄 1. Maker’s Report Sheet: 
+
 
 #### This section provides insight into vehicle category trends, top-performing manufacturers, and quarterly market dynamics.
 
@@ -87,7 +89,8 @@
 
 Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Chart)
 
-### 🌍 2. Regional Report Sheet
+
+## 🌍 2. Regional Report Sheet
 
 #### This section explores geographic EV adoption, penetration rates, and regional performance trends.
 
@@ -108,6 +111,17 @@ Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Cha
 #### States with Negative EV Growth (Table — None found)
 
 #### Top 10 States by CAGR (2022–2024) in total vehicle sales (Table)
+
+
+## Key Insights & Their Strategic Importance
+
+### Here are the refined insights from this report — with why they matter and how they guide decision-making:
+
+#### 1. 2M EVs Sold | 57M Total Vehicles
+
+##### Shows India's EV market is scaling, but EVs are still <4% of all vehicle sales.
+
+##### ✅ Action: AtliQ must plan for growth, but also build awareness & infrastructure.
 
 
 
