@@ -117,11 +117,84 @@ Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Cha
 
 ### Here are the refined insights from this report — with why they matter and how they guide decision-making:
 
+
 #### 1. 2M EVs Sold | 57M Total Vehicles
 
 ##### Shows India's EV market is scaling, but EVs are still <4% of all vehicle sales.
 
 ##### ✅ Action: AtliQ must plan for growth, but also build awareness & infrastructure.
+
+
+#### 2. 1M EVs Sold in FY2024 Alone
+
+##### Half of all EVs sold between 2022–24 occurred in just one year.
+
+##### ✅ Action: Indian EV adoption is accelerating fast — it’s the right time to enter
+
+
+#### 3. Top Makers (2W): Ola Electric, TVS, Ather
+
+##### These brands dominate 2-wheeler EVs.
+
+##### ✅ Action: Benchmark their design, pricing, and marketing for AtliQ’s 2W entry.
+
+
+#### 4. Bottom Makers (2W): Volvo, Kia, Mercedes
+
+##### Luxury and global brands trail in volume.
+
+##### ✅ Action: High price points are a barrier — AtliQ should consider value-driven EVs.
+
+
+#### 5. Tata Motors Leads (4W EVs)
+
+##### Tata dominates in Q4 2024; Mahindra thrives in Q1.
+
+##### ✅ Action: Market performance shifts seasonally — align launch windows by quarter.
+
+
+#### 6. Top States by Penetration: Goa (9.84), Karnataka (7.84)
+
+##### Goa is India’s highest EV adopter.
+
+##### ✅ Action: Focus on Goa, Karnataka, Delhi for early traction.
+
+
+#### 7. Karnataka vs Delhi (2024)
+
+##### Karnataka has higher EV sales (161K vs 47K) and penetration (10.18% vs 7.71%).
+
+##### ✅ Action: Karnataka is a stronger beachhead for initial rollout.
+
+
+#### 8. No State Had Negative EV Growth
+
+##### Market is stable and optimistic nationwide.
+
+##### ✅ Action: Entry risk is lower than expected — opportunity for wide coverage.
+
+
+#### 9. Top CAGR State: Meghalaya (28.47%)
+
+##### Smaller states like Meghalaya & Goa show fastest overall vehicle growth.
+
+##### ✅ Action: Consider these emerging growth pockets for long-term investment.
+
+
+## Recommendations:
+
+#### 1; Enter through Karnataka and Goa — high growth, low competition zones.
+
+#### 2; Benchmark Tata Motors and Ola Electric for pricing, distribution, and timing.
+
+#### 3; Design Q1/Q4 campaigns to match seasonal demand peaks.
+
+#### 4; Position AtliQ as an affordable-smart EV alternative, unlike luxury competitors. 
+
+#### 5; Monitor emerging states like Meghalaya for expansion pilots.
+
+
+
 
 
 
