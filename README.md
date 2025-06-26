@@ -1,2 +1,3 @@
-# AtliQ-Motors-Report
-This report presents an in-depth performance analysis of India's electric and hybrid vehicle market, with the objective of supporting AtliQ Motors’ expansion into the Indian EV space.
+# ATLIQ MOTORS – ELECTRIC VEHICLE MARKET ANALYSIS REPORT(INDIA)
+## Executive Summary
+### This report presents an in-depth performance analysis of India's electric and hybrid vehicle market, with the objective of supporting AtliQ Motors’ expansion into the Indian EV space. Conducted over a three-day span using Power BI and DAX, this report explores national trends, leading manufacturers, regional penetration patterns, and growth opportunities between 2022 and 2024. Findings from the analysis will guide strategic decision-making around product launches, regional targeting, and market positioning as AtliQ scales operations beyond North America.
