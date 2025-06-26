@@ -5,28 +5,28 @@
 ## Business Objective
 #### AtliQ Motors holds a 25% share in North America’s electric/hybrid vehicle market. With a market share of less than 2% in India, the company seeks to enter the Indian EV segment through informed decision-making. The objective of this analysis was to:
 
-#### * Identify key regional trends in EV sales and penetration
+##### * Identify key regional trends in EV sales and penetration
 
-#### *Compare performance across makers and categories (2W/4W)
+##### *Compare performance across makers and categories (2W/4W)
 
-#### *Discover growth opportunities by understanding market seasonality and CAGR
+##### *Discover growth opportunities by understanding market seasonality and CAGR
 
-#### *Enable benchmarking against top EV makers and states
+##### *Enable benchmarking against top EV makers and states
 
-#### *Support smarter expansion planning and minimize entry risk
+##### *Support smarter expansion planning and minimize entry risk
 
-#### This report was prepared for business executives and operations strategists at AtliQ Motors India.
+##### This report was prepared for business executives and operations strategists at AtliQ Motors India.
 
 ## Dataset Overview
 #### The analysis uses 3 interconnected tables modeled via a central date key:
 
 ## Table : Description
 
-#### Dim_date : Contains date, fiscal_year, and quarter for time intelligence
+##### Dim_date : Contains date, fiscal_year, and quarter for time intelligence
 
-#### Electric_vehicle_sales_by_maker : Includes EV sales by maker, vehicle_category, and date
+##### Electric_vehicle_sales_by_maker : Includes EV sales by maker, vehicle_category, and date
 
-#### Electric_vehicle_sales_by_state : Tracks EV and total vehicle sales by state, vehicle_category, and date
+##### Electric_vehicle_sales_by_state : Tracks EV and total vehicle sales by state, vehicle_category, and date
 
 
 #### All three tables were connected using the date column from the dim_date table as the primary key.
@@ -35,9 +35,9 @@
 ## Tools & Techniques Used:
 
 
-#### Power BI Desktop: Visual report building and data modeling
+##### Power BI Desktop: Visual report building and data modeling
 
-#### DAX (Data Analysis Expressions): Creation of KPIs, calculated columns, and dynamic measures
+##### DAX (Data Analysis Expressions): Creation of KPIs, calculated columns, and dynamic measures
 
 
 ### Interactive Design: Drill-through navigation, slicers, buttons, and page interactivity
@@ -47,15 +47,15 @@
 ## Visualization Types:
 
 
-#### Card visuals
+##### Card visuals
 
-#### Donut charts
+##### Donut charts
 
-#### Clustered/stacked bar charts
+##### Clustered/stacked bar charts
 
-#### Line charts
+##### Line charts
 
-#### Matrix tables
+##### Matrix tables
 
 
 ## Report Design Structure
@@ -70,18 +70,18 @@
 
 ### Included Elements:
 
-#### Navigation buttons (to Regional report + Clear slicers)
+##### Navigation buttons (to Regional report + Clear slicers)
 
-#### Fiscal year dropdown slicer
+##### Fiscal year dropdown slicer
 
 
 ### 🧮 KPI Cards:
 
-#### Total Electric Vehicles Sold
+##### Total Electric Vehicles Sold
 
-#### Total Vehicles Sold
+##### Total Vehicles Sold
 
-#### Electric Vehicles Sold in 2024
+##### Electric Vehicles Sold in 2024
 
 ### 📊 Visuals:
 
@@ -96,21 +96,21 @@ Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Cha
 
 ### Included Elements:
 
-#### 🔁 Navigation buttons (to Maker’s report + Clear slicers)
+##### 🔁 Navigation buttons (to Maker’s report + Clear slicers)
 
-#### 📅 Fiscal year slicer
+##### 📅 Fiscal year slicer
 
 ### 📊 Visuals:
 
-#### Penetration Rate by Top 5 States (2W & 4W) in FY2024 (Clustered Bar Chart)
+##### Penetration Rate by Top 5 States (2W & 4W) in FY2024 (Clustered Bar Chart)
 
-#### Monthly Sales Seasonality (2022–2024) (Line Chart)
+##### Monthly Sales Seasonality (2022–2024) (Line Chart)
 
-#### Delhi vs Karnataka (2024) — EV sales & penetration (Donut Chart)
+##### Delhi vs Karnataka (2024) — EV sales & penetration (Donut Chart)
 
-#### States with Negative EV Growth (Table — None found)
+##### States with Negative EV Growth (Table — None found)
 
-#### Top 10 States by CAGR (2022–2024) in total vehicle sales (Table)
+##### Top 10 States by CAGR (2022–2024) in total vehicle sales (Table)
 
 
 ## Key Insights & Their Strategic Importance
@@ -192,6 +192,19 @@ Quarterly Sales Trends (4-wheelers) from 2022 to 2024 for Top 5 Makers (Line Cha
 #### 4; Position AtliQ as an affordable-smart EV alternative, unlike luxury competitors. 
 
 #### 5; Monitor emerging states like Meghalaya for expansion pilots.
+
+
+## Conclusion:
+
+### This analysis confirms that the Indian EV market is:
+
+##### Experiencing rapid, consistent growth
+
+##### Concentrated in certain regions and makers
+
+##### Ready for new competition — especially from innovative, affordable players
+
+#### AtliQ Motors has the opportunity to capture market share now by moving decisively with data-backed targeting and timely execution.
 
 
 
