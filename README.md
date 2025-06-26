@@ -20,12 +20,12 @@
 ## Dataset Overview
 #### The analysis uses 3 interconnected tables modeled via a central date key:
 
-## Table                                                                               Description
+## Table : Description
 
 
-#### dim_date                                                                          Contains date, fiscal_year, and quarter for time intelligence
+#### dim_date : Contains date, fiscal_year, and quarter for time intelligence
 
-#### electric_vehicle_sales_by_maker                                                   Includes EV sales by maker, vehicle_category, and date
+#### electric_vehicle_sales_by_maker : Includes EV sales by maker, vehicle_category, and date
 
-#### electric_vehicle_sales_by_state                                               	   Tracks EV and total vehicle sales by state, vehicle_category, and date
+#### electric_vehicle_sales_by_state : Tracks EV and total vehicle sales by state, vehicle_category, and date
 
